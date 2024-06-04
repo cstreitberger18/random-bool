@@ -1,9 +1,9 @@
 <?php
 namespace Cstreitberger\RandomBool;
 
-class RandomBool
+class Rand
 {
-    public function GetRandomBool() : bool
+    public function getBool() : bool
     {
         $gen = rand(0, 1);
 
