@@ -1,0 +1,19 @@
+{
+    "name": "cstreitberger/random-bool",
+    "description": "A library for a random bool.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cstreitberger\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christoph Streitberger",
+            "email": "cstreitberger@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
