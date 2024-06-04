@@ -1,4 +1,5 @@
 <?php
+namespace Cstreitberger\RandomBool;
 
 class RandomBool
 {
